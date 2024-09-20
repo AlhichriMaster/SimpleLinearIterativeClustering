@@ -1,5 +1,4 @@
 Author: Youssuf Hichri
-Student Id: 101187757
 
 How to run:
 	1. Open the code file, give the image file path in: ofApp.cpp on line: 9
